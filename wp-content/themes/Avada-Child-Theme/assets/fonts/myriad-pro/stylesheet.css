@@ -1,0 +1,11 @@
+/* FOnt Myrial Pro */
+
+
+
+@font-face {
+    font-family: 'MYRIADPRO-REGULAR';
+    src: url('MYRIADPRO-REGULAR.OTF')  format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
